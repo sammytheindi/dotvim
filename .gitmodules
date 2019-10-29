@@ -37,3 +37,6 @@
 [submodule "bundle/makegreen"]
 	path = bundle/makegreen
 	url = https://github.com/reinh/vim-makegreen
+[submodule "bundle/bundle/fugitive"]
+	path = bundle/bundle/fugitive
+	url = https://github.com/tpope/vim-fugitive.git
